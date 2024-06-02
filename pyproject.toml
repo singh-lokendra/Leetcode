@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "Leetcode"
+version = "0.1.0"
+description = ""
+authors = ["Lokendra Singh"]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
